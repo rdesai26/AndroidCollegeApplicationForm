@@ -1,0 +1,66 @@
+<!--
+Ronak Desai
+Final Project
+Submitted 6/8/2021
+-->
+<!-- strings from the other files -->
+<resources>
+    <string name="app_name">College Application</string>
+    <string name="first_name">First Name</string>
+
+    <string name="email">Email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="major">Major</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="email_address">Email Address</string>
+    <string name="name">First Name</string>
+    <string name="high_school">High School</string>
+    <string name="apply_for_honors_program">Apply for Honors Program</string>
+    <string name="stringArrayListExtra">info</string>
+    <string name="info" />
+    <string name="blank" />
+    <string name="thank_you_for_your_submission">Thank you for your submission!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="graduate">Graduate</string>
+    <string name="undergraduate">Undergraduate</string>
+    <string name="namecolon">\nFirst Name: " "</string>
+    <string name="highschool">\nHigh School: " "</string>
+    <string name="program">\nProgram: " "</string>
+    <string name="majorcolon">\nMajor: " "</string>
+    <string name="honorsprogram">\nHonors Program: " " </string>
+    <string name="emailcolon">\nEmail: " " </string>
+    <string name="twonewline">\n\n</string>
+    <string name="infostring">info</string>
+    <string name="sansserif">sans-serif</string>
+    <string name="lastName">\nLast Name: \</string>
+    <string name="gpa">\nGPA: \</string>
+    <string name="firstnamerequired">First Name Required.</string>
+    <string name="firstNameValue">firstname</string>
+    <string name="lastnamerequired">Last Name Required.</string>
+    <string name="lastNameValue">lastname</string>
+    <string name="highschoolrequired">Highschool Required.</string>
+    <string name="highSchoolValue">highschool</string>
+    <string name="gparequired">GPA Required.</string>
+    <string name="gpaValue">gpa</string>
+    <string name="programValue">program</string>
+    <string name="majorValue">major</string>
+    <string name="honorsValue">honors</string>
+    <string name="emailRequired">Email Required.</string>
+    <string name="emailValue">email</string>
+    <string name="accountsTable">accounts</string>
+    <string name="dbOutputStringFormat">FirstName: %s\nLastName: %s \nHighSchool: %s \nGPA: %s  \nProgram: %s \nMajor: %s \nHonors: %s \nEmail: %s \n\n</string>
+    <string name="dbNotCreated">Database not created.</string>
+    <string name="last_name">Last Name</string>
+    <string name="high_school_gpa">High School GPA</string>
+    <string name="required">= required</string>
+    <string-array name="major">
+        <item>Accounting</item>
+        <item>Finance</item>
+        <item>Computer Science</item>
+        <item>Information Technology</item>
+        <item>Mathematics</item>
+    </string-array>
+</resources>
