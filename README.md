@@ -9,6 +9,6 @@ Shown when application first appears on phone.
 
 Allows user to enter information into their cell phone
 
-![Alt text](/Capture4.JPG)
+![Alt text](/Capture9.JPG)
 
 After user enters information data is saved to database and all information from database is displayed.
